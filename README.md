@@ -14,4 +14,4 @@ python -m torch.distributed.launch --nproc_per_node=1 main.py --arch vit_small -
 python testall.py --epoch 0100
 ```
 
-[Our final model:]: https://drive.google.com/file/d/1Hx-cdA7sJBNWLg1JuoSxd3OeGtPVdG4f/view?usp=sharing	"SdalsNet_model"
+[Our final model]: https://drive.google.com/file/d/1Hx-cdA7sJBNWLg1JuoSxd3OeGtPVdG4f/view?usp=sharing	"SdalsNet_model"
